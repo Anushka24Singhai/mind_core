@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316863601111",
+    "project_id": "kiran-final-with-chat",
+    "storage_bucket": "kiran-final-with-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316863601111:android:1daa7746956d8307279392",
+        "android_client_info": {
+          "package_name": "com.example.sa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316863601111-o92g4oftct6jm5300n3ldoro39sn5dqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwIi1MjpyYlF5wryfA3kri5yoo7yDdGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316863601111-o92g4oftct6jm5300n3ldoro39sn5dqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
